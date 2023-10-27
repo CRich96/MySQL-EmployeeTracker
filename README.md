@@ -37,7 +37,7 @@ Once in the properly cloned folder, run ```npm install``` to install the followi
 Christian Richard
 
 ## *Screenshots* 
-![Walkthrough](https://youtu.be/-tClYoEciMI)
+**[Walkthrough](https://youtu.be/-tClYoEciMI)**
 
 ![Screenshot 1](./assets/tss3.png)
 
